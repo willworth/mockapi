@@ -15,10 +15,10 @@
     "message": "Error message description"
   },
   "identity": {
-      "v1":{
-          "token":{
-              "test":"working!"
-          }
+    "v1": {
+      "token": {
+        "test": "working!"
       }
+    }
   }
-  
+}
