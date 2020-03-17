@@ -1,11 +1,17 @@
 {
-    "success": {
-        "expires_in": "0",
-        "refreshToken": "",
-        "return_code": "100",
-        "return_description": "OK",
-        "scope": "sky-self-care",
-        "token": "RGk2ZWhjREJ0M3BEVXBhTm8ycUxJd3prWlFMclZXNUU=",
-        "token_type": "token"
-    }
+  "success": {
+    "expires_in": "0",
+    "refreshToken": "",
+    "return_code": "100",
+    "return_description": "OK",
+    "scope": "sky-self-care",
+    "token": "RGk2ZWhjREJ0M3BEVXBhTm8ycUxJd3prWlFMclZXNUU=",
+    "token_type": "token"
+  },
+  "tokenErrorResponse": {
+    "availableAttempts": "2",
+    "code": "{211}",
+    "info": "https://developer.sky.de/errors/{code}",
+    "message": "{Error message description}"
+  }
 }

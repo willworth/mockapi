@@ -1,0 +1,8 @@
+{
+  "tokenErrorResponse": {
+    "availableAttempts": "2",
+    "code": "{211}",
+    "info": "https://developer.sky.de/errors/{code}",
+    "message": "{Error message description}"
+  }
+}
