@@ -5,20 +5,12 @@
     "return_code": "100",
     "return_description": "OK",
     "scope": "sky-self-care",
-    "token": "RGk2ZWhjREJ0M3BEVXBhTm8ycUxJd3prWlFMclZXNUU=",
+    "token": "VVBOZTJxMFpsTWdaRTZLdGlraEFrTVVBbFZtUWptcW0=",
     "token_type": "token"
   },
-  "tokenErrorResponse": {
-    "availableAttempts": "2",
-    "code": "{211}",
-    "info": "https://developer.sky.de/errors/211",
-    "message": "Error message description"
-  },
-  "identity": {
-    "v1": {
-      "token": {
-        "test": "working!"
-      }
-    }
+  "wrongpassword": {
+    "availableAttempts": 2,
+    "return_code": "201",
+    "return_description": "Wrong Password"
   }
 }
