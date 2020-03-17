@@ -11,7 +11,14 @@
   "tokenErrorResponse": {
     "availableAttempts": "2",
     "code": "{211}",
-    "info": "https://developer.sky.de/errors/{code}",
-    "message": "{Error message description}"
+    "info": "https://developer.sky.de/errors/211",
+    "message": "Error message description"
+  },
+  "identity": {
+      "v1":{
+          "token":{
+              "test":"working!"
+          }
+      }
   }
-}
+  
